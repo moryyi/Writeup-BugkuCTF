@@ -27,7 +27,7 @@ Move to the command following the matching Ook? Ook! if the value in the cell po
 Move to the command following the matching Ook! Ook? if the value in the cell pointed at by the Memory Pointer is non-zero.
 
 ## TODO
-1. (Finished: 2018/12/18) Try to *understand* this fucking language and write a script(see solve.py) for implementation;
+1. [x] (Finished: 2018/12/18) Try to *understand* this fucking language and write a script(see solve.py) for implementation;
 
 ## References
 1. [Wikipedia: brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
